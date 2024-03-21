@@ -1,4 +1,5 @@
 # proyecto
+se crea un programa el cual resive datos sismologicos los cuales son igresados en el codigo, para posteriormente  mostrarselos de manera ordenada al usario dependiendo de la opcion que seleccione el usuario,el programa consta con 5 opciones para el usuario, la primera que dice "ingresar datos" muestra todos los registros de los sismos que estan en el programa. la opcion 2  dice " Contar sismos mayores o iguales a 5.0" el cual muestra de forma ordenada al usario todos los sismos mayores o oguales a 5.0. luego tenemos la opcion 3 que dice " Enviar SMS por cada sismo mayor o igual a 7.0"  y finalmente la opcion 5 es para salir del programa. graias a este prgrama se logra tener informacioj exacta y ordenada y catalogada de los datos de los sismos en chile ademas que su opcion mas importante de enviar mensajes por sms alerta a los usuarios si hay un sismo de magnitudes importantes por aproximarse.
 ![sismo1](https://github.com/clictu/proyecto/assets/163079569/d7b33414-e172-4169-9c45-c678937d9747)
 
 ![sismo3](https://github.com/clictu/Taller01Sismos.java./assets/163079569/da98cea6-2c26-49ca-b86a-cf658c079147)
